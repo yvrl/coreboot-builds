@@ -9,6 +9,6 @@ Upgrades so far
 A photo demonstrating the success of coreboot can be found in my dotfiles repository.
 Here are three photos i took during the reading, compiling and flashing of the coreboot rom.
 
-![Screenshot1](doc/Screenshot1.png)
-![Screenshot2](doc/Screenshot2.png)
-![Screenshot3](doc/Screenshot3.png)
+![Screenshot](doc/Screenshot1.png)
+![Screenshot](doc/Screenshot2.png)
+![Screenshot](doc/Screenshot3.png)
